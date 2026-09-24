@@ -2,7 +2,10 @@
 *.bbl
 *.bcf
 *.blg
-*.fb_latexmk
 *fls
 *.log
 *.xml
+*.toc
+*.gz
+*_latexmk
+*.pdf
