@@ -19,9 +19,12 @@ Ce fichier sert notamment d'_historique de travail_.
 
  ## TODO
 
- - Travailler les cadres théoriques: Piaget (constructivisme), Vergnaud (schèmes), Kettel (référent/référé), Kirkpatrick
- - Lire Mellet d'Huart et Michel (2005) sur la soudure
- - Continuer à chercher des grilles d'évaluation de gestes
+ - Se renseigner sur l'évaluation en PRIORITÉ
+ - Lire Mellet d'Huart et Michel (2005) sur la soudure, Petit et Oudart
+ - Travailler les cadres théoriques: De Ketele (référent/référé), Kirkpatrick
+ - Continuer à chercher des grilles d'évaluation de gestes, mettre en place un suivi **OSATS**
+ - Thèse de Secheresse sur la simulation en santé (chapitre sur l'évaluation potentiellement) -> Lien avec M Pansu
+ - Survoler Charles Hadji
 
 
 ## Outils utilisés et cadrage
