@@ -16,11 +16,11 @@ Ce fichier sert notamment d'_historique de travail_.
  - **24/09/2026** - Installation d'outils de rédaction et de bibliographie (_Zotero_, _TexLive_ et extensions pour intégration à un éditeur).
  - **21/10/2026** - Rédaction du résumé de l'ouvrage _Gestes techniques en formation, un point de vue didactique_ (L. VADCARD)
  - **21/10/2026** - Analyse de quelques grilles d'évaluation des gestes et techniques en médecine et APSA.
+ - **26/10/2026** - Intégration de 3 articles dans la synthèse bibliographique
 
  ## TODO
 
  - Se renseigner sur l'évaluation en PRIORITÉ
- - Lire Mellet d'Huart et Michel (2005) sur la soudure, Petit et Oudart
  - Travailler les cadres théoriques: De Ketele (référent/référé), Kirkpatrick
  - Continuer à chercher des grilles d'évaluation de gestes, mettre en place un suivi **OSATS**
  - Thèse de Secheresse sur la simulation en santé (chapitre sur l'évaluation potentiellement) -> Lien avec M Pansu
