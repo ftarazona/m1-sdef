@@ -10,6 +10,14 @@ Ce fichier sert notamment d'_historique de travail_.
  - Efficacité de modalités de formation
  - Rétention du geste
 
+## Cadres théoriques et auteurs récurrents
+
+ - Vergnaud (schèmes sensori-moteurs)
+ - Piaget (assimilation/accomodation)
+ - Pastré (didactique professionnelle)
+ - Chevallard (transposition didactique)
+ - Leplat (geste - action/signe)
+
 ## Historique
 
  - **22/09/2026** - Envoi d'un mail de contact à Lucile Vadcard pour travailler sur le thème de l'apprentissage des gestes techniques. Demande de RDV pour confirmer l'encadrement.
@@ -17,6 +25,8 @@ Ce fichier sert notamment d'_historique de travail_.
  - **21/10/2026** - Rédaction du résumé de l'ouvrage _Gestes techniques en formation, un point de vue didactique_ (L. VADCARD)
  - **21/10/2026** - Analyse de quelques grilles d'évaluation des gestes et techniques en médecine et APSA.
  - **26/10/2026** - Intégration de 3 articles dans la synthèse bibliographique
+ - **09/11/2026** - Intégration de 1 article dans la synthèse bibliographique
+ - **10/11/2026** - Intégration de 1 article dans la synthèse bibliographique
 
  ## TODO
 
