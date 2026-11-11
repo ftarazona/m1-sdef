@@ -27,12 +27,11 @@ Ce fichier sert notamment d'_historique de travail_.
  - **26/10/2026** - Intégration de 3 articles dans la synthèse bibliographique
  - **09/11/2026** - Intégration de 1 article dans la synthèse bibliographique
  - **10/11/2026** - Intégration de 1 article dans la synthèse bibliographique
+ - **11/11/2026** - Recherche de grilles, commencé à répertorier des métadonnées
 
  ## TODO
 
  - Se renseigner sur l'évaluation en PRIORITÉ
- - Travailler les cadres théoriques: De Ketele (référent/référé), Kirkpatrick
- - Continuer à chercher des grilles d'évaluation de gestes, mettre en place un suivi **OSATS**
  - Thèse de Secheresse sur la simulation en santé (chapitre sur l'évaluation potentiellement) -> Lien avec M Pansu
  - Survoler Charles Hadji
 
