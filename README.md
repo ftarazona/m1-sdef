@@ -9,6 +9,7 @@ Ce fichier sert notamment d'_historique de travail_.
  - Évaluation des gestes
  - Efficacité de modalités de formation
  - Rétention du geste
+ - L'apprentissage des gestes consiste à former un évaluateur: le sujet apprend à évaluer l'efficacité de son geste pour établir sa prise de décision quant à l'adaptation qu'il doit mener pour se rapprocher des critères de réussite. Cela signifie un apprentissage bien plus vaste que le geste lui-même, puisqu'il doit également apprendre les critères de réussite, mais aussi comment évaluer, c'est-à-dire recueillir les informations pertinentes, et les confronter à ces critères.
 
 ## Cadres théoriques et auteurs récurrents
 
@@ -28,6 +29,7 @@ Ce fichier sert notamment d'_historique de travail_.
  - **09/11/2026** - Intégration de 1 article dans la synthèse bibliographique
  - **10/11/2026** - Intégration de 1 article dans la synthèse bibliographique
  - **11/11/2026** - Recherche de grilles, commencé à répertorier des métadonnées
+ - **17/11/2026** - Intégration de 2 nouveaux textes (Kirkpatrick et De Ketele)
 
  ## TODO
 
