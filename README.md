@@ -10,6 +10,7 @@ Ce fichier sert notamment d'_historique de travail_.
  - Efficacité de modalités de formation
  - Rétention du geste
  - L'apprentissage des gestes consiste à former un évaluateur: le sujet apprend à évaluer l'efficacité de son geste pour établir sa prise de décision quant à l'adaptation qu'il doit mener pour se rapprocher des critères de réussite. Cela signifie un apprentissage bien plus vaste que le geste lui-même, puisqu'il doit également apprendre les critères de réussite, mais aussi comment évaluer, c'est-à-dire recueillir les informations pertinentes, et les confronter à ces critères.
+ - Que recherche-t-on dans l'apprentissage d'un geste: le savoir-faire professionnel est-il considéré en premier lieu comme un bénéfice pour la structure d'emploi (compétences à employer) ou pour l'apprenant (élargissement des perspectives professionnelles, meilleures possibilités d'insertion professionnelle)
 
 ## Cadres théoriques et auteurs récurrents
 
@@ -29,13 +30,14 @@ Ce fichier sert notamment d'_historique de travail_.
  - **09/11/2026** - Intégration de 1 article dans la synthèse bibliographique
  - **10/11/2026** - Intégration de 1 article dans la synthèse bibliographique
  - **11/11/2026** - Recherche de grilles, commencé à répertorier des métadonnées
- - **17/11/2026** - Intégration de 2 nouveaux textes (Kirkpatrick et De Ketele)
+ - **17/11/2026** - Intégration de 2 nouveaux textes (Kirkpatrick et De Ketele). Utilisation de Consensus IA pour fournir plus de grilles OSATS.
+ - **19/11/2026** - Intégration de 1 article (Hadji)
 
  ## TODO
 
- - Se renseigner sur l'évaluation en PRIORITÉ
  - Thèse de Secheresse sur la simulation en santé (chapitre sur l'évaluation potentiellement) -> Lien avec M Pansu
- - Survoler Charles Hadji
+ - Corriger les confusions concernant OSATS
+ - Intégrer plus d'outils d'évaluation
 
 
 ## Outils utilisés et cadrage
