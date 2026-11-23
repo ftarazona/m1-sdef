@@ -32,6 +32,7 @@ Ce fichier sert notamment d'_historique de travail_.
  - **11/11/2026** - Recherche de grilles, commencé à répertorier des métadonnées
  - **17/11/2026** - Intégration de 2 nouveaux textes (Kirkpatrick et De Ketele). Utilisation de Consensus IA pour fournir plus de grilles OSATS.
  - **19/11/2026** - Intégration de 1 article (Hadji)
+ - **22/11/2026** - Intégration de nouveaux outils d'évaluation
 
  ## TODO
 
