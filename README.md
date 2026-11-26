@@ -35,12 +35,11 @@ Ce fichier sert notamment d'_historique de travail_.
  - **22/11/2026** - Intégration de nouveaux outils d'évaluation
  - **23/11/2026** - Intégration des critiques 
  - **25/11/2026** - Intégration de 1 article (El Haïk)
+ - **26/11/2026** - Intégration de 1 article (Cifuentes Monteiro)
 
  ## TODO
 
  - Thèse de Secheresse sur la simulation en santé (chapitre sur l'évaluation potentiellement) -> Lien avec M Pansu
- - Corriger les confusions concernant OSATS
- - Intégrer plus d'outils d'évaluation
 
 
 ## Outils utilisés et cadrage
